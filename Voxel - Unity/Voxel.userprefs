@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\World.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Chunk.cs" Line="50" Column="11" />
+      <File FileName="Assets\Scripts\Util\MyFPS.cs" Line="7" Column="38" />
+      <File FileName="Assets\Scripts\World.cs" Line="65" Column="21" />
+      <File FileName="Assets\Scripts\ModifyTerrain.cs" Line="26" Column="52" />
+      <File FileName="Assets\Scripts\Util\FlyCam.cs" Line="59" Column="3" />
+      <File FileName="Assets\Scripts\Util\Crosshair.cs" Line="14" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
